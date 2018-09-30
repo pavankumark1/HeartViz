@@ -1,5 +1,5 @@
 # HeartViz
-Visualization of Heart disease mortality rate amount US adults 
+Visualization of Heart disease mortality rate among US adults 
 
 Medical and health authority survey gather huge amounts of data. This data includes but not limited to disease information, survival
 rate, patient demographics and lifestyle information. An effective analysis plays an important role to draw inferences from gathered
